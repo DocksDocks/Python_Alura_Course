@@ -2,7 +2,7 @@ import guess_game as gg
 import hangman_game as hang
 
 
-def chooseGame()
+def chooseGame():
     print("*********************************")
     print("        Choose your game!        ")
     print("*********************************")
